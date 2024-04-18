@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-Highly motivated and forward-thinking Engineering student specializing in Biomedical Engineering with a strong passion for artificial intelligence, Machine Learning, and Deep Learning applications in the medical field. Experienced in leveraging technical expertise to develop innovative solutions that bridge the gap between healthcare and technology. Proficient in collaborating with interdisciplinary teams, adapting to dynamic challenges, and implementing cutting-edge AI strategies. Dedicated to achieving impactful outcomes while promoting teamwork and a constructive learning atmosphere.
+Highly motivated and forward-thinking Engineering specializing in Biomedical Engineering with a strong passion for artificial intelligence, Machine Learning, and Deep Learning applications in the medical field. Experienced in leveraging technical expertise to develop innovative solutions that bridge the gap between healthcare and technology. Proficient in collaborating with interdisciplinary teams, adapting to dynamic challenges, and implementing cutting-edge AI strategies. Dedicated to achieving impactful outcomes while promoting teamwork and a constructive learning atmosphere.
 
 - 🌱 Currently learning: **AWS**
 - 🌍 Languages: **Spanish(Native) and English(Professional Proficiency)**
